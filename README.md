@@ -36,12 +36,12 @@ and translate insights into practical recommendations.
 - Optimize bike distribution based on weekday and weekend demand.
 
 ## Project Structure
-raw_data/ # Original dataset
-analysed_data/ # Cleaned and processed data
-analysis/ # Analysis files
-visuals/ # Charts and visualizations
-presentation/ # Final presentation slides
-insights/ # Key findings and notes
+- raw_data/ # Original dataset
+- analysed_data/ # Cleaned and processed data
+- analysis/ # Analysis files
+- visuals/ # Charts and visualizations
+- presentation/ # Final presentation slides
+- insights/ # Key findings and notes
 
 ## Author
 Vellysia Nazharina
