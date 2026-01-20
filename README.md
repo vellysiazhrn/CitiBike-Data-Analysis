@@ -38,7 +38,6 @@ and translate insights into practical recommendations.
 ## Project Structure
 - raw_data/ # Original dataset
 - analysed_data/ # Cleaned and processed data
-- analysis/ # Analysis files
 - visuals/ # Charts and visualizations
 - presentation/ # Final presentation slides
 - insights/ # Key findings and notes
